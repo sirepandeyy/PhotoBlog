@@ -1,0 +1,30 @@
+
+        .jumbotron{
+            text-align: left;
+            font-size: 60px;
+			background-image: url(nav.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+			background-position:center;
+		}
+		body{
+			padding-top: 70px;
+
+			background-image: url(back3.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.thumbnail{
+			background-image: url(back3.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+		
+			width: 100%;
+			height: auto;
+            margin-bottom:80px;
+            box-shadow: 10px 5px 5px #888;
+		
+		}
